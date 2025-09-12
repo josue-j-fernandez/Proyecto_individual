@@ -1,0 +1,16 @@
+
+body { 
+  font-family: Arial, sans-serif; 
+  padding: 20px; 
+}
+input { 
+  display:block; 
+  margin:8px 0; 
+  padding:8px; 
+  width:100%; 
+  box-sizing:border-box; 
+}
+button { 
+  padding:8px 12px; 
+  margin-top:8px; 
+}
